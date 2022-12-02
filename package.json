@@ -3,9 +3,9 @@
   "version": "0.1.0",
   "private": true,
   "scripts": {
-    "serve": "npm serve",
-    "build": "npm build",
-    "lint": "npm lint"
+    "serve": "npm run serve",
+    "build": "npm run build",
+    "lint": "npm run lint"
   },
   "dependencies": {
     "core-js": "^3.8.3",
