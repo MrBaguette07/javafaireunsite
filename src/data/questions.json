@@ -1,0 +1,136 @@
+{
+  "nombre": 7,
+  "1": [
+      {
+        "question":"Qu'est que le papillomavirus ?",
+        "correct":3, 
+        "1":"Un virus pour les papillions", 
+        "2":"Un virus transmit par papillions",
+        "3":"Un virus sans rapport avec les papillion",
+        "4":"Un papillion"
+      },
+      {
+        "question":"Quelle méthode permet de dépister le papillomavirus ?",
+        "correct":1, 
+        "1":"Par frottis du col de l'utérus", 
+        "2":"Par analyse d'urine",
+        "3":"Par scanner injecté",
+        "4":"Par l'utilisation d'un filet à papillion"
+      }
+ 
+  ],
+  "2": [
+      {
+        "question":"Existe-t-il un vacin pour l'hépatite B?",
+        "correct":1, 
+        "1":"Oui", 
+        "2":"Non",
+        "3":"Ça ",
+        "4":"Mais qu'est-ce que l'existence ?"
+      },
+      {
+        "question":"Est-ce que l'hépatite B possède des symptômes?",
+        "correct":3, 
+        "1":"Oui", 
+        "2":"Non",
+        "3":"Souvent non",
+        "4":"Seulement des symptôme commançant par B ?"
+      }
+ 
+  ],
+  "3": [
+      {
+        "question":"Qu'est ce que herpes ?",
+        "correct":2, 
+        "1":"Un dieu grec", 
+        "2":"Un virus",
+        "3":"Une bactérie",
+        "4":"Une marque de luxe avec un joli logo qui vend des trucs très chers"
+      },
+      {
+        "question":"Comment se protéger de l'herpes ?",
+        "correct":3, 
+        "1":"Porter des vétements d'une marque de luxe avec un joli logo qui vend des trucs très chers", 
+        "2":"Un vacin",
+        "3":"Un préservatif",
+        "4":"Une égide"
+      }
+ 
+  ],
+  "4": [
+      {
+        "question":"Quelle complication existe pour la chlamydia ?",
+        "correct":4, 
+        "1":"Narcolepsie", 
+        "2":"Cancer de l'oeil",
+        "3":"Allergie aux plantes",
+        "4":"Infertilité"
+      },
+      {
+        "question":"Dans quelles relations la chlamydia se transmet-elle ?",
+        "correct":4, 
+        "1":"Homme avec homme", 
+        "2":"Femme avec femme",
+        "3":"Homme avec femme",
+        "4":"La chlamydia ne discrimine personne"
+      }
+ 
+  ],
+  "5": [
+      {
+        "question":"Quelle est le nom scientifique de la syphilis permet de dépister le papillomavirus ?",
+        "correct":1, 
+        "1":"Trepona Pallidum", 
+        "2":"Rayano Kerkenum",
+        "3":"Neisseria Gonnorhee",
+        "4":"Syphilia Casanova"
+      },
+      {
+        "question":"Dans quelles relations la syphilia ne se transmet-elle pas?",
+        "correct":4, 
+        "1":"Anal", 
+        "2":"Vaginal",
+        "3":"Oral",
+        "4":"De la sagesse"
+      }
+ 
+  ],
+    "6": [
+      {
+        "question":"Qu'est ce que le gonorrhee ?",
+        "correct":4, 
+        "1": "un gros mot",
+        "2":"une diarrhée gargantuesque",
+        "3":"Un virus autre",
+        "4":"une infection"
+      },
+      {
+        "question":"Quelle méthode permet de soigner le gonorrhee ?",
+        "correct":3, 
+        "1": "Saignée",
+        "2":"Vaccin",
+        "3":"Un antibiotique",
+        "4":"Il ne peut pas être soigné"
+      }
+ 
+  ],
+  "7": [
+      {
+        "question":"Quelle est la difference entre SIDA et VIH ?",
+        "correct":3, 
+        "1":"Aucune", 
+        "2":"Aucun rapport",
+        "3":"Le SIDA est un état causé par le VIH",
+        "4":"Le SIDA est un état causant le VIH"
+      },
+      {
+        "question":"Comment le VIH ne peut-il pas être transmit?",
+        "correct":4, 
+        "1":"Rapports sexuels non protégés", 
+        "2":"Partage de liquides corporels",
+        "3":"Partage de matériels d'injection ou de solutions contaminées lors de l'injection de drogue",
+        "4":"Par contact direct"
+      }
+ 
+  ]
+}

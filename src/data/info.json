@@ -1,0 +1,82 @@
+
+{
+    "infos" : {
+        "1" : {
+            "nom": "papillomavirus",
+            "rarete":1,
+            "description" : "Les papillomavirus, ou HPV, sont une famille de plus d'une centaine de virus. L'infection à papillomavirus est l'IST la plus fréquente : Près de 80 % des personnes seront infectés par le HPV au cours de leur vie. Si certains HPV causent des infections bénignes, d’autres peuvent être à l’origine du cancer du col de l’utérus.",
+            "moyen_contamination" : "",
+            "symptomes" : "La grande majorité des infections à HPV sont silencieuses. L’infection à papillomavirus peut se manifester par des démangeaisons, des saignements et des petites verrues (condylomes) sur les organes génitaux ou l’anus. Certaines souches de HPV sont responsables de la majorité des cancers du col de l'utérus.",
+            "traitement" : "Les papillomavirus se soignent avec un traitement local des lésions (crème, solutions, cryothérapie, ablation chirurgicale etc.). La prise en charge est adaptée selon les cas. Il existe un vaccin ! Le vaccin est recommandé chez les jeunes filles et garçons entre 11 et 14 ans. Une vaccination plus tardive est possible avant le début de la vie sexuelle. Le vaccin ne protège pas contre tous les papillomavirus. C’est pourquoi le dépistage reste indispensable à partir de l'âge de 25 ans. Parlez-en avec un médecin.",
+            "depistage" : "Le dépistage de l’infection à papillomavirus consiste à rechercher des lésions précancéreuses ou des cancers. Il s’effectue : Chez la femme de 25 à 29 ans : par un frottis du col de l’utérus tous les 3 ans après deux premiers frottis normaux réalisés à un an d'intervalle qui permet de détecter d'éventuelles cellules anormales (examen cytologique) ; Chez la femme de 30 à 65 ans : par un frottis du col de l'utérus permettant de rechercher les virus HPV à haut risque de cancer (test HPV-HR) qui est réalisé 3 ans après le dernier examen cytologique normal, puis tous les 5 ans ; Chez l’homme, par examen médical si des condylomes (verrues) sont visibles.",
+            "debut_symptome" : "En cas de symptômes, ces derniers peuvent apparaître entre 1 mois et plusieurs années après l'infection. Les verrues apparaissent en moyenne 2 à 3 mois après l'infection.",
+            "complications" : "L’infection à papillomavirus peut entraîner des complications graves tels que le cancer du col de l’utérus ou de l'anus."
+        },
+        "2" : {
+            "nom": "hepatiteB",
+            "rarete":2,
+            "description" : "On estime qu'environ 2 500 personnes sont infectées par le virus de l'hépatite B chaque année en France, dont 200 évolueront vers une hépatite B chronique.",
+            "moyen_contamination" : "",
+            "symptomes" : "L’Hépatite B est souvent asymptomatique. Quand ce n'est pas le cas, elle peut se manifester par : de la fatigue, des douleurs musculaires et articulaires, de la fièvre, des maux de tête, des nausées, des diarrhées, des urines plus foncées, le teint jaune.",
+            "traitement" : "On peut guérir sans traitement, mais on peut aussi devenir porteur à vie. Un suivi médical est indispensable. Il existe un vaccin ! Une vaccination très efficace existe et protège toute la vie. Parlez-en avec votre médecin traitant.",
+            "depistage" : "Le dépistage de l’hépatite B s’effectue par prise de sang. Bon à savoir : un médecin généraliste, un gynécologue ou une sage-femme peuvent vous conseiller et vous prescrire un test de dépistage des IST. Vous pouvez aussi vous rendre dans un CeGIDD (Centre Gratuit d'Information, de Dépistage et de Diagnostic) ou un centre de santé sexuelle.",
+            "debut_symptome" : "Les premiers signes d’une infection à l’hépatite B apparaissent 2 à 8 semaines après la contamination.",
+            "complications" : "Si elle n’est pas traitée, l’hépatite B peut engendrer un risque de et de cancer du foie, une atteinte possible du nouveau-né si la mère est infectée et non traitée."
+        },
+        "3" : {
+            "nom": "herpes",
+            "rarete":1,
+            "description" : "L’herpès génital est une IST virale très contagieuse. Dans le monde, cette infection touche près de 13 % des personnes âgées de 15 à 49 ans.",
+            "moyen_contamination" : "",
+            "symptomes" : "En période de crise, l’herpès se manifeste par des petits boutons douloureux en forme de bulles (cloques) sur les organes génitaux, l’anus ou la bouche et des démangeaisons qui peuvent s’accompagner de fièvre, de maux de tête, de ventre et de douleurs quand on urine.",
+            "traitement" : "Il existe des médicaments disponibles sur ordonnance qui permettent de combattre la douleur et de diminuer l’intensité et la durée de la crise d’herpès. Mais ces traitements n’éliminent pas le virus, des crises peuvent donc réapparaître au cours de la vie. Il n’existe actuellement aucun vaccin pour prévenir l’herpès génital. Le seul moyen d’éviter une infection est donc de se protéger avec un préservatif lors de chaque rapport sexuel.",
+            "depistage" : "Le diagnostic de l’herpès génital se fait par un examen médical, un prélèvement local sur les cloques à l’aide d’un coton-tige. Bon à savoir : un médecin généraliste, un gynécologue ou une sage-femme peuvent vous conseiller et vous prescrire un test de dépistage des IST. Vous pouvez aussi vous rendre dans un CeGIDD (Centre Gratuit d'Information, de Dépistage et de Diagnostic) ou un centre de santé sexuelle.",
+            "debut_symptome" : "Les premiers symptômes apparaissent une semaine ou plus après la contamination.",
+            "complications" : "Non traité, l’herpès génital peut engendrer des complications graves, telles que l’atteinte du nouveau-né au moment de l’accouchement, si la mère est infectée."
+        },
+        "4" : {
+            "nom": "chlamydiose",
+            "description" : "L'infection à chlamydiæ trachomatis (CT) est l'IST bactérienne la plus fréquente entre 16 et 24 ans, surtout chez les femmes. La contamination passe inaperçue la plupart du temps car il y a peu de symptômes, voire pas du tout.",
+            "moyen_contamination" : "La chlamydiose se transmet facilement. Le préservatif (externe ou interne) permet de se protéger de la plupart des IST, mais les modes de transmission sexuelle, notamment pour les chlamydiæ, sont multiples : la vaginale ou anale est le mode le plus répandu, mais parfois un simple contact peau à peau peut suffire. On peut donc avoir contracté une lors d’un rapport sexuel, qu’il y ait pénétration ou non, et quel que soit le sexe de son partenaire.",
+            "symptomes" : "Lors d’une infection à chlamydiæ trachomatis, il n’y a le plus souvent aucun symptôme. Il s’agit : de brûlures, d’un écoulement par la verge, l'anus ou le vagin, de fièvre, de douleur au bas-ventre, d’une angine.",
+            "traitement" : "Pour traiter la chlamydiose, un traitement antibiotique rapide et indolore est généralement prescrit par le médecin. Il fonctionne très bien. Pour casser la dynamique de l’infection, et éviter de se réinfecter après un traitement, il est important de prévenir son partenaire habituel et les partenaires des deux derniers mois. Un traitement pourra alors également leur être proposé ! Il n’existe actuellement aucun vaccin pour prévenir une infection à chlamydiæ trachomatis. Le seul moyen d’éviter une infection est donc de se protéger avec un préservatif lors de chaque rapport sexuel.",
+            "depistage" : "Le dépistage de l’infection à chlamydiæ est simple. Il consiste en : un prélèvement local indolore à l’entrée du vagin chez la femme, un recueil des urines ou un prélèvement à l’entrée de l’urètre chez l’homme. Le dépistage est le seul moyen de vérifier si vous êtes infecté.",
+            "debut_symptome" : "En cas de symptômes, ces derniers peuvent apparaître 1 à 2 semaines après l'infection.",
+            "complications" : "Les complications liées à une infection prolongée à chlamydiæ sont importantes. Il y a des risques de salpingite (infection des trompes utérines), de stérilité, de grossesse extra-utérine et d’atteinte du nouveau-né si la mère est infectée. Dans les pays industrialisés, l’infection à chlamydiæ trachomatis est la principale cause d’infertilités (dues à l'inflammation des trompes utérines). Les risques de complications concernent surtout les femmes, mais les hommes sont quand même également touchés et peuvent transmettre les chlamydiæ à leur partenaire"
+        },
+        "7" : {
+            "nom": "vih",
+            "rarete":3,
+            "description" : "Le VIH est le virus de l’immunodéficience humaine. En l’absence de traitement, le VIH peut être à l’origine du sida, le syndrome d'immunodéficience acquise. En France, 6 200 personnes sont contaminées par le VIH chaque année.",
+            "moyen_contamination" : "Le virus de l’immunodéficience humaine (VIH) se transmet par contact direct entre les muqueuses et les liquides corporels contenant le virus On peut être contaminé par : le sang, le sperme, le liquide pré-séminal, les sécrétions vaginales, le lait maternel. Lors de rapports sexuels non protégés, le risque de transmission augmente en cas de présence de sang, et plus particulièrement : au moment des règles, en cas de microlésions anales ou vaginales, lorsqu’on est déjà infecté par une autre IST. Le VIH peut également se transmettre lors du partage de matériels d'injection ou de solutions contaminées lors de l'injection de drogues. Le VIH ne s’attrape pas sans contact direct, comme c’est le cas pour la grippe où les gouttelettes de salive ou d’éternuement transmettent le virus. Il n’y a donc absolument aucun risque d’attraper le VIH en échangeant un baiser, une poignée de main ou par une piqûre de moustique.",
+            "symptomes" : "En l’absence de traitement, le VIH est responsable du sida. Le sida est l’acronyme du syndrome d’immunodéficience acquise. C’est une maladie qui survient lorsque le VIH a détruit toutes les défenses du corps humain.",
+            "traitement" : "Si l'exposition est récente (moins de 48 heures) un traitement de postexposition au VIH peut être fait. Sinon, il existe des traitements contre le VIH, mais ceux-ci ne permettent pas de guérir du VIH. En revanche, ils permettent de mener une vie normale, d’avoir des enfants et de bénéficier d’une espérance de vie quasiment identique à celle d’une personne séronégative. Les traitements empêchent la transmission du VIH, y compris lors de rapports sexuels sans préservatifs, lors de la grossesse et de l’allaitement.",
+            "depistage" : "Le seul moyen de savoir si vous avez le VIH est de faire un test de dépistage : La prise de sang (test Elisa de 4e génération). Cette prise de sang est effectuée dans les laboratoires ou Centres gratuits d'information, de dépistage et de diagnostic. Le test est remboursé à 100 % sur prescription et est gratuit au CeGIDD. Ce test est fiable dès six semaines après la possible exposition au VIH; Le Trod (test rapide d’orientation diagnostique). Il permet d’avoir un résultat en 30 minutes maximum. Il est réalisé à partir d'une goutte de sang prélevée au bout du doigt. Il est proposé dans certains lieux par les associations de lutte contre le VIH et dans les CeGIDD. Gratuit. Ce test est fiable dès trois mois après la possible exposition au VIH; L’autotest de dépistage de l’infection par le VIH (ADVIH). Il permet d’avoir un résultat en 30 minutes maximum. Vous le faites vous-même. Il est réalisé à partir d’une goutte de sang prélevée au bout du doigt. Disponible en pharmacie (non remboursé) ou auprès de certaines associations de lutte contre le VIH (gratuit). Ce test est fiable dès trois mois après la possible exposition au VIH.",
+            "debut_symptome" : "Une personne infectée par le VIH sans traitement peut présenter des signes de sida plusieurs années plus tard : en moyenne 8 à 10 ans. Chez certaines, le VIH peut progresser en sida en seulement 3 ans, pour d'autres le stade du sida n'intervient qu'au bout de 20 ans.",
+            "complications" : "Une fois que toutes les défenses du corps humain sont détruites, des maladies dites « opportunistes » en profitent alors pour attaquer l’organisme et peuvent entraîner la mort."
+        },
+        "5" : {
+            
+            "nom": "syphilis",
+            "rarete":2,
+            "description" : "L'épidémie de syphilis (ou trepona pallidum) affecte notamment les hommes qui ont des rapports sexuels avec des hommes. Cependant, le nombre de cas de transmissions lors de rapports hétérosexuels augmente.",
+            "moyen_contamination" : "Tous les types de rapports sexuels non protégés peuvent être contaminants, y compris la fellation ou, parfois, le baiser profond. La transmission peut aussi se faire via injection de sang contaminé.",
+            "symptomes" : "La syphilis se manifeste par l'apparition de chancre (petite plaie indolore), boutons ou petites plaques rouges sans démangeaisons sur la peau et les muqueuses.",
+            "traitement" : "La syphilis se soigne avec des antibiotiques pris par voie orale ou par injection. Il n’existe actuellement aucun vaccin pour prévenir les infections à gonocoque. Le seul moyen d’éviter une blennorragie est donc de se protéger avec un préservatif lors de chaque rapport sexuel.",
+            "depistage" : "Le diagnostic de la syphilis s’effectue par examen médical et prise de sang.",
+            "debut_symptome" : "Les premiers signes d’une syphilis apparaissent 2 à 4 semaines après la contamination.",
+            "complications" : "Une syphilis non traitée peut entraîner des complications graves telles qu’une atteinte du cerveau, des nerfs, du cœur, des artères et des yeux, ainsi qu’une atteinte du nouveau-né si la mère est infectée pendant la grossesse."
+        },
+        "6" : {
+            "nom": "gonorrhee",
+            "rarete":1,
+            "description" : "La blennorragie gonococcique, aussi connue sous les noms de “chaude-pisse” ou “gonorrhée”, est une infection causée par la bactérie Neisseria gonorrhoeae. Le plus souvent localisée au niveau des organes génitaux, cette infection se transmet lors des rapports sexuels.",
+            "moyen_contamination" : "La transmission par voie sexuelle peut se produire lors de : relations orales (contact de la bouche avec le pénis, la vulve, le vagin ou l’anus); relations vaginales (pénétration du pénis dans le vagin); relations anales (pénétration du pénis dans l’anus); contact entre les organes génitaux des partenaires; partage de jouets sexuels. La transmission par voie sexuelle peut avoir lieu même sans pénétration, orgasme ou éjaculation.",
+            "symptomes" : "La blennorragie gonococcique peut se manifester par : des brûlures et/ou écoulement jaune par la verge, le vagin ou l'anus; de la fièvre; une douleur au bas-ventre; une angine.",
+            "traitement" : "La syphilis se soigne avec des antibiotiques pris par voie orale ou par injection. Il n’existe actuellement aucun vaccin pour prévenir les infections à gonocoque. Le seul moyen d’éviter une blennorragie est donc de se protéger avec un préservatif lors de chaque rapport sexuel.",
+            "depistage" : "Le dépistage s’effectue par prélèvement local : pour les femmes, ce prélèvement indolore se fait à l’entrée du vagin à l’aide d’une sorte de grand coton-tige; pour les hommes, ce prélèvement est fait au bout du pénis. Une analyse d’urine peut aussi suffire.",
+            "debut_symptome" : "Les premiers signes d’une infection apparaissent 2 à 7 jours après la contamination.",
+            "complications" : "Si elle n’est pas traitée, la blennorragie gonococcique peut entrainer des complications graves telles qu’un risque d’infection des articulations, et même de stérilité (surtout chez la femme)."
+        }
+    }
+}

@@ -1,0 +1,194 @@
+{
+    "1" : {
+        "1": {
+            "text":"En cette journée, tu te rends au parc le plus proche afin de retrouver ton ami Hedi, mais tous le monde l'appelle Don Juan (ça se prononce “Rhouanne”),",
+            "personnage":3
+        },
+        "2": {
+            "text":"que tu n’as pas vu depuis 1 an pour partager un pique-nique.",
+            "personnage":3
+        },
+        "3": {
+            "text":"En arrivant à l’entrée du parc, tu aperçois Juan et te diriges immédiatement vers lui en faisant de grands gestes.",
+            "personnage":3
+        },
+        "4": {
+            "text":"Salut Juan, je suis trop content de te revoir !",
+            "personnage":1
+        },
+        "5": {
+            "text":"Moi aussi, ça fait si longtemps qu’on s’est pas vu !",
+            "personnage":2
+        },
+        "6": {
+            "text":"Ouais, franchement il faut qu’on se voit plus souvent.",
+            "personnage":1
+        },
+        "7": {
+            "text":"Je suis d’accord, mais j’ai été beaucoup occupé cette année ",
+            "personnage":2
+        },
+        "8": {
+            "text":"Vous échangez quelques mots en vous dirigeant dans le parc afin de trouver un coin pour vous poser afin de manger votre repas.",
+            "personnage":3
+        },
+        "9": {
+            "text":"Vous trouvez assez vite un endroit tranquille où discuter tout en savourant vos sandwichs faits maison bien sûr.",
+            "personnage":3
+        },
+        "10": {
+            "text":"Du coup, pour ce qui est de la santé, ça va de ton côté ?",
+            "personnage":1
+        },
+        "11": {
+            "text":"Mouais, pas super…",
+            "personnage":2
+        },
+        "12": {
+            "text":"Qu’est ce qu’il se passe ? ",
+            "personnage":1
+        },
+        "13": {
+            "text":"Qu’est ce que tu as ?",
+            "personnage":1
+        },
+        "14": {
+            "text":"J’ai découvert que Géraldine, la fille que je fréquente en ce moment m’a caché qu’elle avait une IST.",
+            "personnage":2
+        },
+        "15": {
+            "text":"Ah ouais, et qu’est ce que c’est si c’est pas indiscret ?",
+            "personnage":1
+        }
+    },
+    "2" : {
+        "1": {
+            "text":"Et ben, ça doit pas être facile pour toi. J'espère que tu vas vite aller mieux",
+            "personnage":1
+        },
+        "2": {
+            "text":"Oh tu sais, c’est pas la pire que j’ai attrapé, par exemple j’ai aussi eu papillomavirus quand j’étais avec Jean-Eude.",
+            "personnage":2
+        },
+        "3": {
+            "text":"Heu mais comment tu as fait cette fois ?",
+            "personnage":1
+        },
+        "4": {
+            "text":"C’est compliqué… ",
+            "personnage":2
+        }
+    },
+    "3" : {
+        "1": {
+            "text":"Purée, mais faut que tu fasses gaffe, un jour tu vas avoir des répercussions pour la vie.",
+            "personnage":1
+        },
+        "2": {
+            "text":"Je suis bien résistant. Il y a 8 mois, j’en ai déjà eu trois en même temps et je m’en suis très bien remis.",
+            "personnage":2
+        },
+        "3": {
+            "text":"QUOI ?!? ",
+            "personnage":1
+        },
+        "4": {
+            "text":"Feur ! (ahah)",
+            "personnage":2
+        },
+        "5": {
+            "text":"Mais qu’est ce qu’il t’est arrivé ?!?",
+            "personnage":1
+        },
+        "6": {
+            "text":"On va dire qu’on était beaucoup…",
+            "personnage":2
+        }
+    },
+    "4" : {
+        "1": {
+            "text":"Et malgré tout ça, je suis toujours là. Un peu fatigué mais sinon ça va. Je suis solide comme un roc ! (insérer musique de johnny hallyday).",
+            "personnage":12
+        },
+        "2": {
+            "text":"Mais bon, faut que je fasse plus attention, tu ne sais jamais quand ça peut te tomber sur le coin de la figure.",
+            "personnage":2
+        }
+    },
+    "5" : {
+        "1": {
+            "text":"Purée, mais faut que tu fasses gaffe, un jour tu vas avoir des répercussions pour la vie.",
+            "personnage":1
+        },
+        "2": {
+            "text":"Je suis bien résistant. Il y a 8 mois, j’en ai déjà eu trois en même temps et je m’en suis très bien remis.",
+            "personnage":2
+        },
+        "3": {
+            "text":"QUOI ?!? ",
+            "personnage":1
+        },
+        "4": {
+            "text":"Feur ! (ahah)",
+            "personnage":2
+        },
+        "5": {
+            "text":"Mais qu’est ce qu’il t’est arrivé ?!?",
+            "personnage":1
+        },
+        "6": {
+            "text":"On va dire qu’on était beaucoup…",
+            "personnage":2
+        }
+    },
+    "6" : {
+        "1": {
+            "text":"Je sais vraiment pas comment tout cela a pu t’arriver.",
+            "personnage":1
+        },
+        "2": {
+            "text":"Je me suis pas assez renseigné sur tous les risques liés à ces maladies et voilà où ça m’a amené. Maintenant, j’ai l’une des pires des IST qui existe.",
+            "personnage":2
+        },
+        "3": {
+            "text":"Mais tu parles de laquelle ?",
+            "personnage":1
+        }
+    },
+    "7" : {
+        "1": {
+            "text":"Tu m'inquiète beaucoup. J’ai peur pour toi tu sais.",
+            "personnage":1
+        },
+        "2": {
+            "text":"Je vais devoir suivre un traitement pour éviter que l’infection n’empire. C’est le prix à payer pour l'imprudence dont j’ai fait preuve.",
+            "personnage":2
+        },
+        "3": {
+            "text":"Franchement, je te conseille de bien faire attention et de te renseigner un maximum sur les moyens de te protéger.",
+            "personnage":2
+        },
+        "4": {
+            "text":"Et si jamais tu en attrapes malgré toutes les précautions mises en places, n’hésite pas à en parler autour de toi et à des médecins, ils m’ont beaucoup aidé.",
+            "personnage":2
+        }
+    },
+    "8" : {
+        "1": {
+            "text":"Et bah c'était plus simple que ce que je pensais ! Enfin maitre des IST ce n'était pas ma destiné!",
+            "personnage":1
+        },
+        "2": {
+            "text":"J'espère que vous ne ferrez pas les mêmes erreurs que mon cher Juan, qui était déterminé à tous les attraper !",
+            "personnage":1
+        },
+        "3": {
+            "text":"Vous parcourez les mers entières, bravant avec mystère  ",
+            "personnage":1
+        },
+        "4": {
+            "text":"Les MST et leurs confrères , le secret de 'Rouan' (Juan)",
+            "personnage":1
+        }
+    }
+}
