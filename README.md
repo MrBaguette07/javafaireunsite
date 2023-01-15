@@ -36,6 +36,6 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 - LOVERGNE Alex : VUEJS + CSS
 - [Gauthier CORION](https://github.com/MisterGranti67) : VUEJS + CSS
 - [Matthieu CZARKOWSKI](https://github.com/la-ref) : VUEJS
-- MOURONVAL Laurane : ASSETS PIXELART
+- [MOURONVAL Laurane](https://github.com/ML-Laurane) : ASSETS PIXELART
 - [DESAILLY Léandre](https://github.com/leandredess) : SCRIPT
 - [HAFFNER Aurélian](https://github.com/Jin1411) : QUESTIONS/REPONSES, PARTIE INFOGRAPHIE DES IST
