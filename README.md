@@ -31,7 +31,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-###Project made by :
+### Project made by :
 - [ELUECQUE Anthony](https://github.com/Antorakk) : VUEJS + CSS 
 - LOVERGNE Alex : VUEJS + CSS
 - [Gauthier CORION](https://github.com/MisterGranti67) : VUEJS + CSS
