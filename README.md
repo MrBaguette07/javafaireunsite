@@ -1,4 +1,5 @@
 # Nuit de l'info 2022
+![GPLv3 License](https://img.shields.io/github/license/MisterGranti67/javafaireunsite)
 Site visant à éduquer les jeunes sur les IST au travers d'un visual Novel pour l'évènement La Nuit De L'info de 2022.
 
 https://javafaireunsite.french-heberg.com/
