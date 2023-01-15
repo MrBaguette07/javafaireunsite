@@ -1,7 +1,7 @@
 # Nuit de l'info 2022
 ![GPLv3 License](https://img.shields.io/github/license/MisterGranti67/javafaireunsite)
 
-Site visant à éduquer les jeunes sur les IST au travers d'un visual Novel pour l'évènement La Nuit De L'info de 2022.
+Site aimed at educating young people about STIs through a visual novel for the 2022 La Nuit De L'info event.
 
 https://javafaireunsite.french-heberg.com/
 
@@ -31,7 +31,7 @@ npm run lint
 See [Configuration Reference](https://cli.vuejs.org/config/).
 
 
-Projet Réalisé par
+###Project made by :
 - [ELUECQUE Anthony](https://github.com/Antorakk) : VUEJS + CSS 
 - LOVERGNE Alex : VUEJS + CSS
 - [Gauthier CORION](https://github.com/MisterGranti67) : VUEJS + CSS
