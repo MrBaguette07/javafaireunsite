@@ -3,7 +3,7 @@ Site visant à éduquer les jeunes sur les IST au travers d'un visual Novel pour
 
 https://javafaireunsite.french-heberg.com/
 
-![logiciel](https://github.com/MisterGranti67/javafaireunsite/jeu.png)
+![jeu](https://github.com/MisterGranti67/javafaireunsite/jeu.png)
 
 ## Project setup
 ```
