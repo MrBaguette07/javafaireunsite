@@ -33,7 +33,7 @@ See [Configuration Reference](https://cli.vuejs.org/config/).
 
 ### Project made by :
 - [ELUECQUE Anthony](https://github.com/Antorakk) : VUEJS + CSS 
-- LOVERGNE Alex : VUEJS + CSS
+- [LOVERGNE Alex](https://github.com/ArcenIce) : VUEJS + CSS
 - [Gauthier CORION](https://github.com/MisterGranti67) : VUEJS + CSS
 - [Matthieu CZARKOWSKI](https://github.com/la-ref) : VUEJS
 - [MOURONVAL Laurane](https://github.com/ML-Laurane) : ASSETS PIXELART
